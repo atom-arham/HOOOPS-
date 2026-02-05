@@ -1,5 +1,5 @@
 HOOOPS!
-> Computerised version of the board game known as HOOOP
+> Computerised version of the board game known as HOOOP developed with Java and Java Swing
 
 <div align="center">
   <img src="screenshots/menu.png" width="800" alt="Main Menu">
